@@ -1,0 +1,70 @@
+{
+   "Room" : {
+      "id" : 1,
+      "temperature" : 22,
+      "waterConsumption" : 100,
+      "energyConsumption" : 1,
+      "name" : "Bedroom",
+      "devices" : [ {
+         "id" : 1,
+         "name" : "Lamp",
+         "status" : "ON"
+      }, {
+         "id" : 11,
+         "name" : "Coffee Machine",
+         "status" : "ON"
+      }, {
+         "id" : 21,
+         "name" : "Timer",
+         "status" : "ON"
+      }, {
+         "id" : 31,
+         "name" : "Heater",
+         "status" : "ON"
+      }, {
+         "id" : 41,
+         "name" : "Heater(vind)",
+         "status" : "ON"
+      }, {
+         "id" : 51,
+         "name" : "Burglar alarm",
+         "status" : "OFF"
+      }, {
+         "id" : 61,
+         "name" : "Indoor Lamp",
+         "status" : "ON"
+      }, {
+         "id" : 71,
+         "name" : "Timer 2",
+         "status" : "ON"
+      }, {
+         "id" : 81,
+         "name" : "Fan",
+         "status" : "ON"
+      }, {
+         "id" : 91,
+         "name" : "Hot tub",
+         "status" : "ON"
+      }, {
+         "id" : 101,
+         "name" : "Microwave",
+         "status" : "ON"
+      }, {
+         "id" : 121,
+         "name" : "Fire alarm",
+         "status" : "OFF"
+      }, {
+         "id" : 141,
+         "name" : "Window alarm",
+         "status" : "ON"
+      }, {
+         "id" : 151,
+         "name" : "Oven alarm",
+         "status" : "ON"
+      }, {
+         "id" : 161,
+         "name" : "Water leakage alarm",
+         "status" : "ON"
+      } ]
+   }
+}
